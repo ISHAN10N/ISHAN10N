@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ISHAN GURUNG</h1>
-<h3 align="center">A developer</h3>
+<h3 align="center">""Coding: where logic meets creativity.""</h3>
 
 - 🌱 I’m currently learning **Devops**
 
